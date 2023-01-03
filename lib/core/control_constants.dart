@@ -1,0 +1,14 @@
+const String keyUp = 'Arrow Up';
+const String keyDown = 'Arrow Down';
+const String pageUp = 'Page Up';
+const String pageDown = 'Page Down';
+const String keyLeft = 'Arrow Left';
+const String keyRight = 'Arrow Right';
+const String keyCenter = 'Select';
+const String keyEnter = 'Enter';
+const String keyBack = 'Backspace';
+const String goBack = 'Go Back';
+const String playPause = 'Media Play Pause';
+const String rewind = 'Media Rewind';
+const String fastForward = 'Media Fast Forward';
+const String stop = 'Media Stop';

@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "flutter",
+      "command": "flutter",
+      "args": [
+        "build",
+        "apk",
+        "--split-per-abi",
+        "--release",
+        "--no-tree-shake-icons",
+        "--flavor staging",
+        "-t",
+        "lib/main_staging.dart"
+      ],
+      "group": "build",
+      "problemMatcher": [],
+      "label": "Flutter: flutter build apk for STB Staging"
+    },
+  ]
+}
